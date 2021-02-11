@@ -5,3 +5,8 @@ background-color: #B7FAF2;
 h2 {
 color: #09FF00;
 font: 36px serif }
+
+p {
+  border: thick double #FCFF00;
+  font-family: 24px sans-serif;
+  color: #00017F }
