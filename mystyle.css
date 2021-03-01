@@ -1,12 +1,69 @@
-body { 
-background-color: #B7FAF2;	
+html {
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSESpcT9lYo3hVv3Jb-OP3wuwxxrokA4vsEmw&usqp=CAU)
+}
+  
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: clear;
+   
 }
 
-h2 {
-color: #09FF00;
-font: 36px serif }
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px 18px;
+  font-family: DejaVu Sans Mono, monospace;
+}
+
+li a:hover {
+  background-color: #EFEFFF;
+  opacity: 0.7;
+  text-decoration: underline;
+}
+
+body {
+	text-align: left;
+    padding: 16px 18px;
+	padding-right: 65px;
+}
+
+h1 {
+	font-family: American Typewriter, serif;
+	font-size: 30px;
+	font-style: italic;
+	color: #005B42;
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
+}
+
+h3 {
+	font-family: American Typewriter, serif;
+}
+
 
 p {
-  border: thick double #FCFF00;
-  font-family: 24px sans-serif;
-  color: #00017F }
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	padding: 16px 18px;
+}
+
+div.important {
+	text-align: left;
+	padding: 16px 18px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-size: 16px;	
+}
+
+img.okay {
+  float:right;
+  padding: 16px;
+  margin:0 0 13px 13px;
+}
