@@ -51,14 +51,14 @@ h3 {
 
 
 p {
-	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-family: Comic Sans MS, Comic Sans, serif;
 	padding: 16px 18px;
 }
 
 div.important {
 	text-align: left;
 	padding: 16px 18px;
-	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-family: Comic Sans MS, Comic Sans, serif;
 	font-size: 16px;	
 }
 
